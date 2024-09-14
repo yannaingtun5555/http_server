@@ -1,0 +1,27 @@
+[2024-09-15 01:39:28.419333] [info]: - : Attempting to open configuration file
+[2024-09-15 01:39:28.419520] [info]: - : Configuration file opened successfully.
+[2024-09-15 01:39:28.419573] [info]: - : Connection_manager initialized with IP: 0.0.0.0 and Port: 8000
+[2024-09-15 01:39:28.419613] [info]: - : Completly created endpoind at port 8000
+[2024-09-15 01:39:28.419653] [info]: - : The root directory is opened at /var/www/html
+[2024-09-15 01:39:56.642299] [info]: 127.0.0.1 : Client  requested: /runner/r1.html
+[2024-09-15 01:39:56.642545] [info]: 127.0.0.1 : Response sent for client
+[2024-09-15 01:39:56.699405] [info]: 127.0.0.1 : Client  requested: /runner/r1.css
+[2024-09-15 01:39:56.699596] [info]: 127.0.0.1 : Response sent for client
+[2024-09-15 01:39:56.715029] [info]: 127.0.0.1 : Client  requested: /runner/r1.js
+[2024-09-15 01:39:56.715197] [info]: 127.0.0.1 : Response sent for client
+[2024-09-15 01:39:56.737896] [info]: 127.0.0.1 : Client  requested: /runner/background7.png
+[2024-09-15 01:39:56.756604] [info]: 127.0.0.1 : Response sent for client
+[2024-09-15 01:39:56.756786] [info]: 127.0.0.1 : Client  requested: /runner/background5.png
+[2024-09-15 01:39:56.768186] [info]: 127.0.0.1 : Response sent for client
+[2024-09-15 01:39:56.768280] [info]: 127.0.0.1 : Client  requested: /runner/background6.png
+[2024-09-15 01:39:56.780185] [info]: 127.0.0.1 : Response sent for client
+[2024-09-15 01:39:56.780437] [info]: 127.0.0.1 : Client  requested: /runner/runner2.png
+[2024-09-15 01:39:56.794753] [info]: 127.0.0.1 : Response sent for client
+[2024-09-15 01:39:56.795353] [info]: 127.0.0.1 : Client  requested: /runner/obstacle1.png
+[2024-09-15 01:39:56.795378] [info]: 127.0.0.1 : Response sent for client
+[2024-09-15 01:39:56.807495] [info]: 127.0.0.1 : Client  requested: /runner/obstacle2.png
+[2024-09-15 01:39:56.807683] [info]: 127.0.0.1 : Response sent for client
+[2024-09-15 01:39:56.818063] [info]: 127.0.0.1 : Client  requested: /runner/obstacle3.png
+[2024-09-15 01:39:56.818238] [info]: 127.0.0.1 : Response sent for client
+[2024-09-15 01:39:56.827975] [info]: 127.0.0.1 : Client  requested: /runner/obstacle4.png
+[2024-09-15 01:39:56.828136] [info]: 127.0.0.1 : Response sent for client
