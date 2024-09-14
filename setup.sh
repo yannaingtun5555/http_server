@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-SOURCE_DIR="./error"
+SOURCE_DIR="var/www/error"
 TARGET_DIR="/var/www/html/error"
 
 setup_error_directory() {

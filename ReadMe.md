@@ -31,7 +31,7 @@ A lightweight and modular HTTP server designed to handle requests and serve file
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yannaingtun5555/http_server-boost_based-.git
+    git clone https://github.com/yannaingtun5555/http_server.git
     cd http-server
     ```
 
